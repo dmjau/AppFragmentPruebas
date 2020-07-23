@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PruebaFragmentSimple</string>
+    <string name="btn_main_simple">Simple a 1</string>
+    <string name="btn_main_mensaje">Mensaje a 2</string>
+    <string name="btn_main_texto">Texto a 3</string>
+    <string name="btn_main_fourth">Texto a 4 y luego 5</string>
+    <string name="editText_main_empty"> </string>
+    <string name="text_fragment_empty"> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment_text">Hola este es un Fragment Simple Vacio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="second_fragment_empty"> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="third_fragment_empty"> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fourth_fragment_text">Ingrese texto que ira al 5to Fragment</string>
+
+</resources>
